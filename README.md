@@ -13,7 +13,7 @@ Simultaneously, I continued to reinforce and expand my skills in C and shell scr
 * [0x06. Python - Classes and Objects](./0x06-python-classes)
 
 ## Author :
-* **Bamidele Adefolaju** <[lexxyla](https://github.com/lexxyla)>
+* **Henry Ezeobi** <[lexxyla](https://github.com/Exitroz)>
 
 ## Acknowledgements :pray:
 
